@@ -52,8 +52,12 @@ a:active{
   50% { opacity:0; }
   100% { opacity:1; }
 }
+#resume{
+  padding-top: 50px;
+  text-align: center;
+}
 #page2{
-	height: 1000px;
+	height: 1200px;
 }
 #page3{
 	height: 1000px;
