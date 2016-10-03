@@ -1,14 +1,14 @@
 #page1{
 	height: 1000px;
 }
-a:link{
-	color:lightskyblue;
+a:link,
+a:visited{
+	color: lightskyblue;
 	background-color:transparent;
 }
-a:visited,
 a:hover,
 a:active{
-	color:lightskyblue;
+	color: dodgerblue;
 	background-color:transparent;
 	text-decoration:underline;
 }
@@ -66,5 +66,46 @@ a:active{
 	height: 1000px;
 }
 #contact-icons{
-	
+	padding-top: 200px;
+	text-align: center;
+}
+#facebook a:link{
+	color: dodgerblue;
+	background-color: transparent;
+}
+#facebook a:visited,
+#facebook a:hover,
+#facebook a:active{
+	color: dodgerblue;
+	background-color: transparent;
+	text-decoration: underline;
+}
+#instagram a:link{
+	color: tomato;
+	background-color: transparent;
+}
+#instagram a:visited,
+#instagram a:hover,
+#instagram a:active{
+	color: tomato;
+	background-color: transparent;
+	text-decoration: underline;
+}
+#twitter a:link,
+#twitter a:visited{
+	color: gold;
+	background-color:transparent;
+}
+#twitter a:hover,
+#twitter a:active{
+	color: gold;
+	background-color:transparent;
+	text-decoration:underline;
+}
+#contact-info{
+	text-align: center;
+	font-family: 'Share Tech Mono', monospace;
+	font-size: 2rem;
+	padding-top: 50px;
+	color: lightslategray;
 }
