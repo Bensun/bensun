@@ -62,8 +62,74 @@ a:active{
 #page3{
 	height: 1000px;
 }
+#project{
+	font-family: 'Share Tech Mono', monospace;;
+	font-size: 2rem;
+	line-height: 175%;
+	padding-top: 2.5%;
+}
+#project-title{
+	font-size: 3rem;
+	padding-bottom: 2.5%
+}
+#spotify{
+	text-align: center;
+}
+#spotify a:link{
+	color: lawngreen;
+	background-color: transparent;
+}
+#spotify a:visited,
+#spotify a:hover,
+#spotify a:active{
+	color: lawngreen;
+	background-color: transparent;
+	text-decoration: underline;
+}
+#personalsite{
+	text-align: center;
+}
+#personalsite a:link{
+	color: lightskyblue;
+	background-color: transparent;
+}
+#personalsite a:visited,
+#personalsite a:hover,
+#personalsite a:active{
+	color: lightskyblue;
+	background-color: transparent;
+	text-decoration: underline;
+}
+#pogo{
+	text-align: center;
+}
+#pogo a:link{
+	color: red;
+	background-color: transparent;
+}
+#pogo a:visited,
+#pogo a:hover,
+#pogo a:active{
+	color: red;
+	background-color: transparent;
+	text-decoration: underline;
+}
+#frackman{
+	text-align: center;
+}
+#frackman a:link{
+	color: black;
+	background-color: transparent;
+}
+#frackman a:visited,
+#frackman a:hover,
+#frackman a:active{
+	color: black;
+	background-color: transparent;
+	text-decoration: underline;
+}
 #page4{
-	height: 1000px;
+	height: 900px;
 }
 #contact-icons{
 	padding-top: 200px;
